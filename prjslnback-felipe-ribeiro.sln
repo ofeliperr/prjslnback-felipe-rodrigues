@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjslnback-felipe-ribeiro", "prjslnback-felipe-ribeiro\prjslnback-felipe-ribeiro.csproj", "{D866A2AF-5D2F-4962-91A8-476C5D3878A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjslnback_felipe_ribeiroTest", "prjslnback_felipe_ribeiroTest\prjslnback_felipe_ribeiroTest.csproj", "{85E8A156-75ED-4A85-9BDC-E616C96C5F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D866A2AF-5D2F-4962-91A8-476C5D3878A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D866A2AF-5D2F-4962-91A8-476C5D3878A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D866A2AF-5D2F-4962-91A8-476C5D3878A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D866A2AF-5D2F-4962-91A8-476C5D3878A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E8A156-75ED-4A85-9BDC-E616C96C5F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E8A156-75ED-4A85-9BDC-E616C96C5F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E8A156-75ED-4A85-9BDC-E616C96C5F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E8A156-75ED-4A85-9BDC-E616C96C5F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66A7C91-6C63-44B9-8C1A-4B449C080EA7}
+	EndGlobalSection
+EndGlobal
